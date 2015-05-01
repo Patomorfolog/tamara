@@ -3,6 +3,7 @@
   "description": "Wordpress",
   "version": "1.0.0",
   "dependencies": {
-    "bootstrap": "~3.3.4"
+    "bootstrap": "~3.3.4",
+    "formstone": "~0.5.9"
   }
 }
