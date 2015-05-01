@@ -1,0 +1,8 @@
+{
+  "name": "Tamara Wizy",
+  "description": "Wordpress",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
